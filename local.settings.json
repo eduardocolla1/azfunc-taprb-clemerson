@@ -1,0 +1,13 @@
+
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "HOST": "sv-univille-ca.database.windows.net",
+    "DATABASE": "db-univille",
+    "USER": "usr_read_itsm05 ",
+    "PASSWORD": "mJtm1ykno#0=rTPrK#B"
+  }
+}
+
